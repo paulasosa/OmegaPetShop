@@ -1,7 +1,8 @@
-# ciclo4_g25
+# OmegaPetShop
 Proyecto de clase Ciclo 4 Mintic Grupo 25
 
-Definicion del proyecto
+Definicion del proyecto 
+OmegaPetShop
 
 Descripción del Proyecto (Mundo del proyecto)
 Objetivo General – Objetivos Específicos
